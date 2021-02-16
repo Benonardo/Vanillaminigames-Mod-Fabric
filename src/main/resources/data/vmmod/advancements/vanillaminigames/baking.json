@@ -1,0 +1,35 @@
+{
+  "parent": "vmmod:vanillaminigames/root",
+  "display": {
+    "icon": {
+      "item": "vmmod:tomato_cake"
+    },
+    "title": {
+      "translate": "advancements.vanillaminigames.baking.title"
+    },
+    "description": {
+      "translate": "advancements.vanillaminigames.baking.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "tomato_cake": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "vmmod:tomato_cake"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "tomato_cake"
+    ]
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "vmmod:unbaked_tomato_cake"
+  },
+  "result": "vmmod:tomato_cake",
+  "experience": 0.35,
+  "cookingtime": 100
+}

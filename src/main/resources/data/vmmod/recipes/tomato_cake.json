@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "vmmod:unbaked_tomato_cake"
+  },
+  "result": "vmmod:tomato_cake",
+  "experience": 0.35,
+  "cookingtime": 200
+}

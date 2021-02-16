@@ -1,0 +1,12 @@
+{
+  "item.vmmod.tomato": "Tomato",
+  "item.vmmod.poison_tomato": "Poison Tomato",
+  "item.vmmod.tomato_cake": "TomatoCake",
+  "item.vmmod.tomato_cake_dough": "Unbaked TomatoCake",
+  "item.vmmod.troll_face": "Troll",
+  "advancements.vanillaminigames.root.title": "Vanillaminigames",
+  "advancements.vanillaminigames.root.description": "All VM advancements",
+  "advancements.vanillaminigames.baking.title": "Baaake Baaaake Baaaaky",
+  "advancements.vanillaminigames.baking.description": "Bake a TomatoCake in a furnace",
+  "itemGroup.vmmod.vanillaminigames": "Vanillaminigames"
+}
